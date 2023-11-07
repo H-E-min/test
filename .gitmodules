@@ -1,0 +1,4 @@
+[submodule "module/decathlon"]
+	path = module/decathlon
+	url = git@github.com:H-E-min/Decathlon.git
+	branch = master
